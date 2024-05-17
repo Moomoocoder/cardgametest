@@ -1,0 +1,53 @@
+[
+    {
+        "image": "../assets/chili.png",
+        "name": "chili"
+    },
+    {
+        "image": "../assets/grapes.png",
+        "name": "grapes"
+    },
+    {
+        "image": "../assets/lemon.png",
+        "name": "lemon"
+    },
+    {
+        "image": "../assets/orange.png",
+        "name": "orange"
+    },
+    {
+        "image": "../assets/pineapple.png",
+        "name": "pineapple"
+    },
+    {
+        "image": "../assets/strawberry.png",
+        "name": "strawberry"
+    },
+    {
+        "image": "../assets/tomato.png",
+        "name": "tomato"
+    },
+    {
+        "image": "../assets/watermelon.png",
+        "name": "watermelon"
+    },
+    {
+        "image": "../assets/cherries.png",
+        "name": "cherries"
+    },
+    { 
+        "image": "../assets/moomoo.png",
+        "name": "moo"
+    },
+    { 
+        "image": "../assets/mateo.png",
+        "name": "mateo"
+    },
+
+    { 
+        "image": "../assets/nhe.png",
+        "name": "nhe"},
+    {"image":"../assets/cow.png","name": "cow"},
+    {"image":"../assets/bunbo.png","name": "bunbo"}
+
+]
